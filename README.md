@@ -4,15 +4,18 @@ I am Harshit and I work as a Senior Developer Community Manager with a focus on 
 
 Previously I was working with Topcoder as a Developer Advocate / Developer Evangelist (a competitive programming platform turned crowdsourcing platform) from 2014 to 2021. 
 
+Languages and Tools:
 
+
+```
 { 
 "name" : "Harshit Mehta",
   	"title": "Senior Community Manager, DevRel",
   	"work" : "MongoDB",
   	"location" : "Dublin, Ireland",
-	"social"   : [ ""   : "@hmehtaro",
+	"social"   : [ "twitter"   : "@hmehtaro",
   			   	   "linkedin" : "harshitmehta15", 
 			   	   "github"   : "harshitmehta15"  ],
    
 }
-
+```
