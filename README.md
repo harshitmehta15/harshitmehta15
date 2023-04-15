@@ -26,4 +26,4 @@ Previously I was working with Topcoder as a Developer Advocate / Developer Evang
 <a href="https://app.daily.dev/hmehta"><img src="https://api.daily.dev/devcards/f95258b1b7f949c8b43f18921ca82a5c.png?r=k9c" width="400" alt="Harshit Mehta's Dev Card"/></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitmehta15)]
