@@ -13,10 +13,6 @@ Previously I was working with Topcoder as a Developer Advocate / Developer Evang
 	"social"   : [ ""   : "@hmehtaro",
   			   	   "linkedin" : "harshitmehta15", 
 			   	   "github"   : "harshitmehta15"  ],
-    "address" : [
-  +   {...}
-  +   {...}
-  ],
-    "dob" : ISODate("1992-15-08T05:00:00Z"),
+   
 }
 
