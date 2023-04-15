@@ -20,7 +20,9 @@ Previously I was working with Topcoder as a Developer Advocate / Developer Evang
 }
 ```
 
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitmehta15)
+
+
 <a href="https://app.daily.dev/hmehta"><img src="https://api.daily.dev/devcards/f95258b1b7f949c8b43f18921ca82a5c.png?r=k9c" width="400" alt="Harshit Mehta's Dev Card"/></a>
 
 
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
